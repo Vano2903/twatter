@@ -1,0 +1,13 @@
+C:\Users\vanoncini.18008\Desktop\c#-P_P\twatter\twatter\twatter\obj\Debug\netcoreapp3.1\twatter.csprojAssemblyReference.cache
+C:\Users\vanoncini.18008\Desktop\c#-P_P\twatter\twatter\twatter\obj\Debug\netcoreapp3.1\twatter.AssemblyInfoInputs.cache
+C:\Users\vanoncini.18008\Desktop\c#-P_P\twatter\twatter\twatter\obj\Debug\netcoreapp3.1\twatter.AssemblyInfo.cs
+C:\Users\vanoncini.18008\Desktop\c#-P_P\twatter\twatter\twatter\obj\Debug\netcoreapp3.1\twatter.csproj.CoreCompileInputs.cache
+C:\Users\vanoncini.18008\Desktop\c#-P_P\twatter\twatter\twatter\bin\Debug\netcoreapp3.1\twatter.exe
+C:\Users\vanoncini.18008\Desktop\c#-P_P\twatter\twatter\twatter\bin\Debug\netcoreapp3.1\twatter.deps.json
+C:\Users\vanoncini.18008\Desktop\c#-P_P\twatter\twatter\twatter\bin\Debug\netcoreapp3.1\twatter.runtimeconfig.json
+C:\Users\vanoncini.18008\Desktop\c#-P_P\twatter\twatter\twatter\bin\Debug\netcoreapp3.1\twatter.runtimeconfig.dev.json
+C:\Users\vanoncini.18008\Desktop\c#-P_P\twatter\twatter\twatter\bin\Debug\netcoreapp3.1\twatter.dll
+C:\Users\vanoncini.18008\Desktop\c#-P_P\twatter\twatter\twatter\bin\Debug\netcoreapp3.1\twatter.pdb
+C:\Users\vanoncini.18008\Desktop\c#-P_P\twatter\twatter\twatter\obj\Debug\netcoreapp3.1\twatter.dll
+C:\Users\vanoncini.18008\Desktop\c#-P_P\twatter\twatter\twatter\obj\Debug\netcoreapp3.1\twatter.pdb
+C:\Users\vanoncini.18008\Desktop\c#-P_P\twatter\twatter\twatter\obj\Debug\netcoreapp3.1\twatter.genruntimeconfig.cache
